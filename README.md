@@ -22,6 +22,6 @@
 - Learning:   
     - VBA and advanced spreadsheet automation in Microsoft Excel  
     - Natural language proccessing  
-    - Webscraping.  
+    - Webscraping  
 
 ---
