@@ -9,19 +9,16 @@
     - Analyzing the impact of different burn severities on stream chemistry in the Utah Lake watershed  
     - Analyzing harmful algal bloom trends in Utah Lake using remote sensing data  
     - Creating rating curves for modeling stream volume based on pressue data  
-    - Creating a dashboard to view stream chemistry data  
+    - Creating a dashboard to view, clean, and manipulate stream chemistry data  
 
 - Skills:   
     - R, Python, and SQL  
-    - Data cleaning, manipulation and visualization  
-    - Simple and multiple linear regression modeling as well as basic machine learning algorithms  
+    - Data cleaning and manipulation using tidyr and pandas 
+    - Data visualization using ggplot2 and matplotlib 
+    - Simple and multiple linear regression modeling as well as basic machine learning algorithms using scikitlearn
     - Principal component analysis  
     - SQL queries and managing a data pipeline containing a SQLite database  
-    - Version control and team collaboration using Git and Github  
-
-- Learning:   
-    - VBA and advanced spreadsheet automation in Microsoft Excel  
-    - Natural language proccessing  
-    - Webscraping  
+    - Dashboards using RShiny and Dash
+    - Advanced spreadsheet automation 
 
 ---
