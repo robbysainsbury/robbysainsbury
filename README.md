@@ -16,7 +16,8 @@
     - Data cleaning and manipulation using tidyr and pandas 
     - Data visualization using ggplot2 and matplotlib 
     - Simple and multiple linear regression modeling as well as basic machine learning algorithms using scikitlearn
-    - Principal component analysis  
+    - Principal component analysis and regression
+    - Cloud and parallel computing in Python with the Parsl and Dask packages
     - SQL queries and managing a data pipeline containing a SQLite database  
     - Dashboards using RShiny and Dash
     - Advanced spreadsheet automation 
