@@ -1,6 +1,6 @@
 ### About Me :
 
-- I'm currently working as a data manager and research assistant with the Ben Abbott Lab of Ecosystem Ecology at BYU. I'm a senior, planning on graduating in June 2023 with a Bachelor's in Statistics. I enjoy using data science and statistical analysis to solve important problems in enviornmental science and public health.  
+- I'm currently working as a data manager and research assistant with the Ben Abbott Lab of Ecosystem Ecology at BYU. I have a B.S. in Statistics and experience with data managment and analysis. I enjoy using data science and statistical analysis to solve important problems in enviornmental science and public health.  
 
 ---
 
